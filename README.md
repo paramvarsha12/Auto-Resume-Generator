@@ -4,7 +4,7 @@ A resume generator which transforms your raw text into a downloadable resume
 ---
 
 ##  Features
-
+- **Images are attached at the bottom**
 - Paste raw text into the box
 - Extracts Name, Email, Skills, Experience, Education using basic NLP (which is natural language processing)
 - Choose between Modern, Classic, and Minimal resume designs
@@ -38,6 +38,31 @@ A resume generator which transforms your raw text into a downloadable resume
 5. The user picks a resume style
 6. The app takes those details and fills them in the template they chose (those were readymade templates, had to keep it simple)
 7. We use a tool called wkhtmltopdf (i will provide the steps to download it below, and then it converts the html resume to a downloadable pdf
+
+---
+
+# Modern Template : 
+![](relative/path/to/image.png)
+![](relative/path/to/image.png)
+
+
+# Classic Template :
+![](relative/path/to/image.png)
+![](relative/path/to/image.png)
+
+
+# Minimal Template : 
+![](relative/path/to/image.png)
+![](relative/path/to/image.png)
+
+
+
+
+
+
+
+
+
 
 ---
 
