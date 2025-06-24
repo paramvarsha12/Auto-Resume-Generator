@@ -42,26 +42,27 @@ A resume generator which transforms your raw text into a downloadable resume
 ---
 
 # Modern Template : 
-![](relative/path/to/image.png)
-![](relative/path/to/image.png)
+![](https://github.com/paramvarsha12/Auto-Resume-Generator/blob/bb266d84361a24570555351478240c9019a97dcf/Screenshot%202025-06-24%20170349.png
+)
+![](https://github.com/paramvarsha12/Auto-Resume-Generator/blob/bb266d84361a24570555351478240c9019a97dcf/Screenshot%202025-06-24%20170424.png
+)
+
+
+---
 
 
 # Classic Template :
-![](relative/path/to/image.png)
-![](relative/path/to/image.png)
+![](https://github.com/paramvarsha12/Auto-Resume-Generator/blob/bb266d84361a24570555351478240c9019a97dcf/Screenshot%202025-06-24%20170504.png
+)
+![](https://github.com/paramvarsha12/Auto-Resume-Generator/blob/bb266d84361a24570555351478240c9019a97dcf/Screenshot%202025-06-24%20170516.png
+)
 
+---
 
 # Minimal Template : 
-![](relative/path/to/image.png)
-![](relative/path/to/image.png)
-
-
-
-
-
-
-
-
+![](https://github.com/paramvarsha12/Auto-Resume-Generator/blob/bb266d84361a24570555351478240c9019a97dcf/Screenshot%202025-06-24%20170527.png
+)
+![](https://github.com/paramvarsha12/Auto-Resume-Generator/blob/bb266d84361a24570555351478240c9019a97dcf/Screenshot%202025-06-24%20170538.png)
 
 
 ---
